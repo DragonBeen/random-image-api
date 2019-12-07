@@ -1,3 +1,6 @@
+[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/DragonBeen/random-image-api)
+
+
 # random-image-api
 [![GitHub License](https://img.shields.io/github/license/OblivionSan/random-image-api.svg?style=flat-square)](https://github.com/OblivionSan/random-image-api/blob/master/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/OblivionSan/random-image-api.svg?style=flat-square)](https://github.com/OblivionSan/random-image-api/stargazers)
